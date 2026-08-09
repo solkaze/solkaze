@@ -9,7 +9,7 @@
 
 ## 使用言語
 
-Rust / TypeScript / Python / C++ / Go
+Rust / C++ / Python / Zig / TypeScript
 
 ## 資格
 
